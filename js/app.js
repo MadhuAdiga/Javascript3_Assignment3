@@ -5,7 +5,7 @@ var counter= (function() { //Declare a function called counter
 	}
 })();
 
-console.log("The function has been called" + counter() + "times"); //Call the function counter
-console.log("The function has been called" + counter() + "times");
-console.log("The function has been called" + counter() + "times");
-console.log("The function has been called" + counter() + "times");
+console.log("The function has been called " + counter() + " times"); //Call the function counter
+console.log("The function has been called " + counter() + " times");
+console.log("The function has been called " + counter() + " times");
+console.log("The function has been called " + counter() + " times");
